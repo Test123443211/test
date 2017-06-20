@@ -1,2 +1,2 @@
 # School
-itkoor school management software
+BTLC school management software
